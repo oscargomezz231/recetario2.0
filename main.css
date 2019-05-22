@@ -1,0 +1,22 @@
+div{ 
+    border: solid 10px;
+    border-radius: 50px;
+    width: 700px;
+   background-color: bisque;
+    padding: 25px;
+    margin:auto;
+}
+form{ 
+    border:solid  10px;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 150px;
+}
+
+b{
+    border:solid  5px;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 150px;
+    bottom: auto;
+}
