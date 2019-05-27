@@ -5,6 +5,16 @@ div{
    background-color: bisque;
     padding: 25px;
     margin:auto;
+    @media screen and (max-width:640px) {
+  /* reglas CSS */
+}
+@media screen and (max-width:1024px) and (min-width:640px) {
+  /* reglas CSS */
+}
+@media screen and (min-width:1024px) {
+  /* reglas CSS */
+}
+
 }
 form{ 
     border:solid  10px;
