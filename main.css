@@ -5,13 +5,13 @@ div{
    background-color: bisque;
     padding: 25px;
     margin:auto;
-    @media screen and (max-width:640px) {
+    @media screen and (max-width:2280px) {
   /* reglas CSS */
 }
-@media screen and (max-width:1024px) and (min-width:640px) {
+@media screen and (max-width:1080px) and (min-width:2280px) {
   /* reglas CSS */
 }
-@media screen and (min-width:1024px) {
+@media screen and (min-width:1080px) {
   /* reglas CSS */
 }
 
